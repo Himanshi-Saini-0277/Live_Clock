@@ -10,15 +10,15 @@ The live clock code consists of an HTML file, a CSS file for styling, and a Java
 - script.js: This file contains the JavaScript code responsible for updating the time displayed on the web page.
 
 #### HTML Structure
-The HTML structure includes an element where the current time is displayed. The "<script>" tag at the end of the body loads the JavaScript file to enable the functionality.
+The HTML structure includes a '<h>' element where the current time is displayed. The "<script>" tag at the end of the body loads the JavaScript file to enable the functionality.
 
 #### CSS Styles
 The CSS styles define the appearance of the clock, including font size, alignment, font family, and color.
 
 #### JavaScript Functionality
-The JavaScript code fetches the current time from the system clock and updates the content of the element with the current time every second using the setInterval() function.
+The JavaScript code fetches the current time from the system clock and updates the content of the '<h>' element with the current time every second using the 'setInterval()' function.
 
-The showTime() function retrieves the current time, formats it, and updates the content of the element with the formatted time.
+The 'showTime()' function retrieves the current time, formats it, and updates the content of the '<h>' element with the formatted time.
 
 #### Usage
 To use the live clock code, simply include the HTML, CSS, and JavaScript files in your web project. Make sure all files are in the same directory. When the HTML file is opened in a web browser, the current time will be displayed and updated in real-time.
