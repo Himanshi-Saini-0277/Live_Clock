@@ -5,7 +5,7 @@ The live clock code is a simple JavaScript program that displays the current tim
 
 #### Files
 The live clock code consists of an HTML file, a CSS file for styling, and a JavaScript file for functionality.
-- index.html: This file contains the structure of the web page and includes references to the CSS and JavaScript files.
+- clock.html: This file contains the structure of the web page and includes references to the CSS and JavaScript files.
 - styles.css: This file contains styles to format the appearance of the clock, including font size, alignment, and color.
 - script.js: This file contains the JavaScript code responsible for updating the time displayed on the web page.
 
